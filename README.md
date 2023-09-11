@@ -1,4 +1,4 @@
-```bash
+```
 bilal-billo@github:~$ whoami
 + Young data engineer
 + Data & Cloud enthousiast
